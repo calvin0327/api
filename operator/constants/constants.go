@@ -41,7 +41,8 @@ const (
 	// KarmadaWebhook defines the name of the karmada-webhook component
 	KarmadaWebhook = "karmada-webhook"
 	// KarmadaDescheduler defines the name of the karmada-descheduler component
-	KarmadaDescheduler = "karmada-descheduler"
+	KarmadaDescheduler    = "karmada-descheduler"
+	KarmadaMetricsAdapter = "karmada-metrics-adapter"
 
 	// KarmadaSystemNamespace defines the leader selection namespace for karmada components
 	KarmadaSystemNamespace = "karmada-system"
